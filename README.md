@@ -17,7 +17,7 @@
 I am a final-year undergraduate student at Pandit Deendayal Energy University, pursuing a Bachelor's in Computer Science and Engineering. I am a passionate full-stack developer and Cloud computing enthusiast with a strong interest in DevOps, React.js, Node.js, relational databases (RDBMS), MongoDB, Express.js, MySQL, and REST APIs. My interests also include the MERN stack and DevOps-related tools such as Jenkins, Terraform, Ansible, Docker, Kubernetes and AWS . As a student, I am eager to explore and master these technologies while actively contributing to their development and implementation.
 <br><br>
 
-- 🔭 I’m currently working on AutoSphere.
+- 🔭 I’m currently working In WebLineIndia.
 - 🌱 I’m currently learning many things, I believe that everyday is a 
   learning opportunity.
 - 👯 I’m looking to collaborate on Open Source Software Development.
@@ -47,6 +47,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
     <td><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" alt="Heroku"></td>
     <td><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase"></td>
     <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
+    <td><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" alt="Vim"></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"></td>
@@ -60,6 +61,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
     <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"></td>
     <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"></td>
     <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva"></td>
+    <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router"></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux"></td>
@@ -84,15 +86,13 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material-UI"></td>
-    <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router"></td>
   </tr>
-  <tr align="center">
-    <td><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" alt="Vim"></td>
+  <!-- <tr align="center">
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-</tr>
+</tr> -->
 
 </table>
 
