@@ -97,7 +97,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 </table>
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -140,12 +140,10 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<!-- <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishpatel1610&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-
----
+</div> --> 
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
@@ -172,7 +170,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <img src="./instagram.png" width=50 height=50 alt="kathan_shah_1893" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/kahtan-shah1893" target="_blank">
+<a href="https://www.github.com/kahtan-shah1893" target="_blank">
 <img src="./github.png" width=50 height=50 alt="kathan-shah1893" style="margin-bottom: 5px;" />
 </a>
 
