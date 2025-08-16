@@ -21,7 +21,6 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 - 🌱 I’m currently learning many things, I believe that everyday is a 
   learning opportunity.
 - 👯 I’m looking to collaborate on Open Source Software Development.
-- 🌐 My Tech Portfolio [kathanshah.netlify.app](https://kathanshah.netlify.app/)
 - 👨‍💼 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 🤓 Fun fact: Programmers don’t die, they just go offline😝
 
