@@ -17,7 +17,7 @@
 I am a final-year undergraduate student at Pandit Deendayal Energy University, pursuing a Bachelor's in Computer Science and Engineering. I am a passionate full-stack developer and Cloud computing enthusiast with a strong interest in DevOps, React.js, Node.js, relational databases (RDBMS), MongoDB, Express.js, MySQL, and REST APIs. My interests also include the MERN stack and DevOps-related tools such as Jenkins, Terraform, Ansible, Docker, Kubernetes and AWS . As a student, I am eager to explore and master these technologies while actively contributing to their development and implementation.
 <br><br>
 
-- 🔭 I’m currently working In WebLineIndia.
+- 🔭 I’m currently working In Tribastion Technologies.
 - 🌱 I’m currently learning many things, I believe that everyday is a 
   learning opportunity.
 - 👯 I’m looking to collaborate on Open Source Software Development.
